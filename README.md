@@ -22,6 +22,7 @@ of the project is to establish if a transaction is fraudulent or not using advan
 2. requirements.txt
 3. .gitignore
 4. README.md
+5. LICENCE
 
 ### **How to Install and Run the Project**  🏃
 
