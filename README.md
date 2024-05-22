@@ -3,7 +3,7 @@
 
 ### **Description**  🗒️
 
-Fraud detection is one of the main critical nodes in the financial world. The dataset used here comes from a financial insitution in Africa. The aim
+Fraud detection is one of the main critical nodes in the financial world. The dataset used here comes from a financial institution in Africa. The aim
 of the project is to establish if a transaction is fraudulent or not using advanced machine learning algorithms such as Logistic Regression, Random Forest or Naive Bayes.
 
 
